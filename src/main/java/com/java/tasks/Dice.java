@@ -1,4 +1,4 @@
-package com.java.EngineeringAnimuthyam;
+package com.java.tasks;
 
 import java.util.Scanner;
 
