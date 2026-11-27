@@ -14,12 +14,8 @@ public class LC_771_Jewels_And_Stones {
                 if(jewels.charAt(i) == stones.charAt(j)){
                     ans = ans +1;
                 }
-
             }
         }
         System.out.println(ans);
-
-
-
     }
 }
